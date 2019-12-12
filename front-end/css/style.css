@@ -22,7 +22,8 @@ nav .on a {
 
 /**����ͼ**/
 .focus {
-    background: url(img/original.jpg) no-repeat center top;
+    background: url(http://img07.yiguoimg.com/d/others/191129/9288739604637565.jpg) no-repeat center top;
+    height: 600px;
 }
 
 .focus-info {
@@ -51,6 +52,7 @@ nav .on a {
 
 .hot {
     padding-bottom: 20px;
+    margin-top: -10px;
 }
 
 .hot a.prev {
